@@ -1,0 +1,14 @@
+#root {
+  width: 1000px;
+  padding-top: 100px;
+}
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+Box {
+  display: flex;
+  flex-direction: column;
+}
